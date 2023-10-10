@@ -1,2 +1,2 @@
 # Python-questions
-Here I solve some question in python
+Here I'll solve some question in python
